@@ -116,3 +116,9 @@ http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89925&pk=af4e980
 
 #EXTINF:0,RAI SPORT
 http://2203.janjua.pw:8089/live/eretrrtdspo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:0,PFC
+http://158.58.173.92:8081/loadbalance/pfc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIxIDI6MTM6MzcgQU0maGFzaF92YWx1ZT0rU2pkVGxQTlp5RVFMYjhVbml1cHdRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:0,teste
+http://www.futebolaovivo.cloud/power7/aovivo.php?canal=pfc
